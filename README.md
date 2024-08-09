@@ -5,3 +5,5 @@
 + I do not take requests/commisions 
 
 [My steam profile](https://steamcommunity.com/profiles/76561198259829950/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourParalysisDemon)](https://github.com/anuraghazra/github-readme-stats)
