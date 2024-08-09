@@ -2,9 +2,11 @@
 
 # What I do/contacts
 + I make external hacks for old video games using python (Single-Player)
-+ I do not take requests/commisions 
++ I do not take requests/commisions
++ I do not make hacks that bypass anti-cheats or are designed solely to ruin the fun of other players (Multiplayer) 
 
-[My steam profile](https://steamcommunity.com/profiles/76561198259829950/)
++ [My Steam profile](https://steamcommunity.com/profiles/76561198259829950/)
++ [My Discord profile](discordapp.com/users/sleepparalysisdemon115)
 
 
 
