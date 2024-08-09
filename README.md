@@ -6,4 +6,4 @@
 
 [My steam profile](https://steamcommunity.com/profiles/76561198259829950/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourParalysisDemon&theme=dark&border_color=Ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourParalysisDemon&theme=dark&border_color=Ff0000&title_color=Ff0000)](https://github.com/anuraghazra/github-readme-stats)
