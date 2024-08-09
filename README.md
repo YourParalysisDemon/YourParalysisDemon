@@ -6,7 +6,7 @@
 + I do not make hacks that bypass anti-cheats or are designed solely to ruin the fun of other players (Multiplayer) 
 
 + [My Steam profile](https://steamcommunity.com/profiles/76561198259829950/)
-+ [My Discord profile](discordapp.com/users/269903732408451083)
++ [My Discord profile](https://discordapp.com/users/269903732408451083)
 
 
 
